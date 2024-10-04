@@ -11,6 +11,8 @@ The purpose of this repository is to illustrate the differences and evolution fr
 
 ---
 
+- [Agenda](https://robinsdeepak.notion.site/From-Static-HTML-to-Component-Based-Architectures-115f2655400e80f69ae5c612eceb3b21)
+
 ## Table of Contents
 
 - [Introduction](#introduction)
