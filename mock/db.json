@@ -1,0 +1,74 @@
+{
+  "places": [
+    {
+      "id": 1,
+      "name": "Mystic Falls",
+      "bestTimeToVisit": "Spring",
+      "bestThingsToDo": "Hiking, Waterfalls, Nature Photography",
+      "image": "https://images.unsplash.com/photo-1489447068241-b3490214e879?ixlib=rb-1.2.1&auto=format&fit=crop&w=934&q=80"
+    },
+    {
+      "id": 2,
+      "name": "Sunny Shores",
+      "bestTimeToVisit": "Summer",
+      "bestThingsToDo": "Swimming, Surfing, Beach Volleyball",
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-1.2.1&auto=format&fit=crop&w=934&q=80"
+    },
+    {
+      "id": 3,
+      "name": "Autumn Ridge",
+      "bestTimeToVisit": "Autumn",
+      "bestThingsToDo": "Leaf Peeping, Hiking, Wine Tasting",
+      "image": "https://images.unsplash.com/photo-1541609548510-23f7d44d5700?ixlib=rb-1.2.1&auto=format&fit=crop&w=934&q=80"
+    },
+    {
+      "id": 4,
+      "name": "Snowy Peaks",
+      "bestTimeToVisit": "Winter",
+      "bestThingsToDo": "Skiing, Snowboarding, Hot Springs",
+      "image": "https://images.unsplash.com/photo-1617179921609-3cde676d238b?ixlib=rb-1.2.1&auto=format&fit=crop&w=934&q=80"
+    },
+    {
+      "id": 5,
+      "name": "Desert Oasis",
+      "bestTimeToVisit": "Winter",
+      "bestThingsToDo": "Camel Riding, Stargazing, Sandboarding",
+      "image": "https://images.unsplash.com/photo-1452022582947-b521d8779ab6?ixlib=rb-1.2.1&auto=format&fit=crop&w=934&q=80"
+    },
+    {
+      "id": 6,
+      "name": "Rainforest Retreat",
+      "bestTimeToVisit": "Spring",
+      "bestThingsToDo": "Wildlife Watching, Canopy Tours, Kayaking",
+      "image": "https://images.unsplash.com/photo-1654180635272-13fc4be2ecf3?ixlib=rb-1.2.1&auto=format&fit=crop&w=934&q=80"
+    },
+    {
+      "id": 7,
+      "name": "Historic Town",
+      "bestTimeToVisit": "Autumn",
+      "bestThingsToDo": "Museum Tours, Architecture Walks, Local Cuisine",
+      "image": "https://images.unsplash.com/photo-1577130870660-13373fa12098?ixlib=rb-1.2.1&auto=format&fit=crop&w=934&q=80"
+    },
+    {
+      "id": 8,
+      "name": "Island Paradise",
+      "bestTimeToVisit": "Summer",
+      "bestThingsToDo": "Snorkeling, Boat Tours, Relaxation",
+      "image": "https://images.unsplash.com/photo-1678393810368-cbee9a769087?ixlib=rb-1.2.1&auto=format&fit=crop&w=934&q=80"
+    },
+    {
+      "id": 9,
+      "name": "Mountain Village",
+      "bestTimeToVisit": "Spring",
+      "bestThingsToDo": "Hiking, Local Festivals, Handicraft Shopping",
+      "image": "https://images.unsplash.com/photo-1605719131587-e1dd9bafbdb6?ixlib=rb-1.2.1&auto=format&fit=crop&w=934&q=80"
+    },
+    {
+      "id": 10,
+      "name": "Urban Jungle",
+      "bestTimeToVisit": "All Year",
+      "bestThingsToDo": "Nightlife, Shopping, Fine Dining",
+      "image": "https://images.unsplash.com/photo-1630207711470-6d16f93e5fdd?ixlib=rb-1.2.1&auto=format&fit=crop&w=934&q=80"
+    }
+  ]
+}

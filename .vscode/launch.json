@@ -1,0 +1,49 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "JSON Server",
+      "type": "node",
+      "request": "launch",
+      "runtimeExecutable": "json-server",
+      "args": ["--watch", "db.json", "--port", "3001"],
+      "console": "integratedTerminal",
+      "restart": true,
+      "cwd": "${workspaceFolder}/mock"
+    },
+    {
+      "name": "ui1",
+      "type": "node",
+      "request": "launch",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "serve"],
+      "cwd": "${workspaceFolder}/ui1",
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "ui2",
+      "type": "node",
+      "request": "launch",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "serve"],
+      "cwd": "${workspaceFolder}/ui2",
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "ui3",
+      "type": "node",
+      "request": "launch",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "start"],
+      "cwd": "${workspaceFolder}/ui3",
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "ui4",
+      "type": "dart",
+      "request": "launch",
+      "cwd": "${workspaceFolder}/ui4",
+      "program": "lib/main.dart"
+    }
+  ]
+}
