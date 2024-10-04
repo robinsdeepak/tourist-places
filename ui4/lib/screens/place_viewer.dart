@@ -56,7 +56,7 @@ class _PlaceViewerState extends State<PlaceViewer> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: null, // Remove the AppBar for a consistent UI
+      appBar: null,
       body: isLoading
           ? const Center(child: CircularProgressIndicator())
           : place != null
