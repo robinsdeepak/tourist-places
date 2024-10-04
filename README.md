@@ -1,4 +1,4 @@
-# Tourist Places App - Multi-Tech Implementation
+# Tourist Places App - From Static HTML to Component-Based Architectures
 
 Welcome to the **Tourist Places App** repository! This project showcases the development of a simple tourist places application using different technologies:
 
